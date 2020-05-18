@@ -1,0 +1,7 @@
+# - image: ajv_headshot.png
+#   name: Andrew van der Stock
+#   title: 
+#   bio: "Andrew is a long-standing contributor to and member of OWASP, having lead the OWASP Developer Guide 2.0, OWASP Top 10 2007 and 2017, and Application Security Verification Standard projects. He was previously a board member from 2015-2018. He is currently working on the OWASP Top 10 2020."
+#   subject: OWASP Top 10 2020 
+#   abstract: "The OWASP Top 10 2020 is coming. The OWASP Top 10 is one of OWASP's core flagship projects, and for better or worse, despite being an awareness document, is commonly used as a standard. Therefore, we need to get it right and include the application security community's buy-in on the risks and mitigations. Learn about the current progress, what needs to be done, and how you can help by contributing data and expertise. We plan to release the OWASP Top 10 2020 later this year."
+#   style:

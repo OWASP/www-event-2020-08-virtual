@@ -1,0 +1,24 @@
+﻿# - Type: Training
+#   Trainers:
+#     - Name: Sebastien Deleersnyder
+#       Email: seba@toreon.com
+#       Image: https://owasp.wufoo.com/cabinet/3627cfa5-3b87-4973-8d5e-110013c0c524
+#       Twitter: 'Sebadele'
+#       Biography: >-
+#         Seba is co-founder and CEO of Toreon. He started the Belgian OWASP chapter,
+#         co-leads the OWASP SAMM project, and co-founded the yearly BruCON
+#         conference. With a background in development and many years of experience in
+#         security, Seba has trained countless developers to create more secure
+#         software. He adapts application security models to the evolving field of
+#         DevOps and brings Threat Modeling to a wider audience (including teaching
+#         Whiteboard Hacking at Black Hat).
+#       TrainerId: sebastien_deleersnyder
+#   Title: Hands-on threat modeling and tooling for DevSecOps
+#   URL: /register/?id=sku_H1yCWioFa4VeId
+#   SectionId: sku_H1yCWioFa4VeId
+#   Description: >-
+#     Action-packed Threat Modeling course for DevOps to improve reliability &
+#     security of software. We teach a risk-based, iterative and incremental
+#     threat modeling method. At least 50% hands-on workshops covering the
+#     different stages of threat modeling on an incremental business driven CI/CD
+#     scenario for AWS. 94% satisfaction score O’Reilly Velocity.

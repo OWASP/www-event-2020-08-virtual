@@ -1,0 +1,166 @@
+{
+    "id": "prod_H1xecZzE1wdQl8",
+    "name": "Virtual AppSec Days April 2020",
+    "currency": "usd",
+    "products": [
+        {
+            "id": "sku_H1xiPmSNVltwq9",
+            "name": "Training: Building Secure API's and Web Applications",
+            "amount": 49500,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>The major cause of API and web application insecurity is a lack of secure software development knowledge and practices. This highly intensive and interactive 1-day workshop provides essential application security training for web application and API developers. This workshop is a combination of lecture, security testing, and code review. <em>Presented by Jim Manico</em></p>",
+                "discountable": "True",
+                "display_order": "-28",
+                "display_end": "2020-04-26"
+            }
+        },
+        {
+            "id": "sku_H1xk4AgbtAFKU5",
+            "name": "Training: DevSecOps - Automate Security in DevOps",
+            "amount": 49500,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>Code gets shipped into a DevOps environment at a blazing speed, making it extremely difficult to address security at each new release.In this training we shall discuss how to address security issues by automating security in a DevOps environment utilising various tools and techniques. Attendees will also get a DevSecOps-Lab used during the course. <em>Presented by Rohit Salecha</em></p>",
+                "discountable": "True",
+                "display_order": "-29",
+                "display_end": "2020-04-26"
+            }
+        },
+        {
+            "id": "sku_H1y85jGfx9gmi7",
+            "name": "Training: Seth & Ken's Excellent Adventures (in Secure Code Review)",
+            "amount": 49500,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>Have you been tasked with reviewing too much code in too little of time? What about new frameworks or languages you are unfamiliar with? This course addresses these common challenges in modern secure code review. Sharpen your code review techniques by gleaning from our adventures in code review and the lessons we’ve learned along the way. <em>Presented by Ken Johnson and Seth Law</em></p>",
+                "discountable": "True",
+                "display_order": "-26",
+                "display_end": "2020-04-26"
+            }
+        },
+        {
+            "id": "sku_H1y9FEAYaVoiud",
+            "name": "Training: Hacking Android and IoT apps by Example",
+            "amount": 49500,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>Learn about Android &amp; IoT app security by improving your mobile security testing kung-fu. Ideal for Penetration Testers, Mobile Developers and everybody interested in mobile app security. All action, no fluff, skills gained are 100% hands-on, includes lifetime access to training portal with detailed video recordings + all future updates for free. <em>Presented by Abraham Aranguren</em></p>",
+                "discountable": "True",
+                "display_order": "-24",
+                "display_end": "2020-04-26"
+            }
+        },
+        {
+            "id": "sku_H1yATX40ndXv3X",
+            "name": "Training: Attacking and Defending Containers, Kubernetes and Serverless",
+            "amount": 49500,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>Attacking and Securing an infrastructure or Applications leveraging containers, kubernetes and serverless technology requires specific skill set and a deep understanding of the underlying architecture. The Training will be filled with demos designed from real-world attacks to help understand all there is to attack and secure such applications. <em>Presented by Nithin Jois</em></p>",
+                "discountable": "True",
+                "display_order": "-21",
+                "display_end": "2020-04-26"
+            }
+        },
+        {
+            "id": "sku_H1yCdB8VCO5j2d",
+            "name": "Training: DevOps for CISO",
+            "amount": 49500,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>Interactive training with group exercises for better understanding of the following topics: (1) Agile and DevOps basics, (2) The role of automation in development, deployment, and operations, (3) Agile threat modeling, (4) Patch management in DevOps environments, (5) Incident handling feedback loops, (6) Cloud challenges and advantages, (7) Combining SRE and DevSecOps. <em>Presented by Dave van Stein</em></p>",
+                "discountable": "True",
+                "display_order": "-18",
+                "display_end": "2020-04-26"
+            }
+        },
+        {
+            "id": "sku_H1yCWioFa4VeId",
+            "name": "Training: Hands-on threat modeling and tooling for DevSecOps",
+            "amount": 49500,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>Action-packed Threat Modeling course for DevOps to improve reliability &amp; security of software. We teach a risk-based, iterative and incremental threat modeling method. At least 50% hands-on workshops covering the different stages of threat modeling on an incremental business driven CI/CD scenario for AWS. 94% satisfaction score O’Reilly Velocity. <em>Presented by Sebastien Deleersnyder</em></p>",
+                "discountable": "True",
+                "display_order": "-14",
+                "display_end": "2020-04-26"
+            }
+        },
+        {
+            "id": "sku_H31pEBjSGDhILO",
+            "name": "Training: Threat Modeling: Getting from None to Done",
+            "amount": 49500,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>This session offers an introduction to Threat Modeling (TM), based on the instructor's learning and experience developing a TM practice at his employer. We start with necessary background information, walk through techniques for building models for new and legacy systems, and wrap up with an approach for introducing TM into your SDLC. <em>Presented by John DiLeo</em></p>",
+                "discountable": "True",
+                "display_order": "-9",
+                "display_end": "2020-04-26"
+            }
+        },
+        {
+            "id": "sku_H33dXfccDeGYjR",
+            "name": "Training: Applied Data Science and Machine Learning For Cyber Security",
+            "amount": 49500,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>This interactive course will teach security professionals how to use data science techniques to quickly manipulate and analyze security data. The course will cover the entire data science process from data preparation, exploratory data analysis, data visualization, machine learning, and model evaluation—all with a focus on security related problems. <em>Presented by Charles Givre</em></p>",
+                "discountable": "True",
+                "display_order": "-2",
+                "display_end": "2020-04-26"
+            }
+        },
+        {
+            "id": "sku_H3EBtcCxSzdJvn",
+            "name": "Training: Your Application Security Program",
+            "amount": 49500,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>Bring your application Security Program from zero to hero with this 1/2 day planning course. We will learn; planning, scaling, and measuring your AppSec Program. We will cover; tooling, where to start, how to measure, creating a security champions program, developer education, and more. Course will include written exercises and discussion. <em>Presented by Tanya Janca</em></p>",
+                "discountable": "True",
+                "display_order": "-1",
+                "display_end": "2020-04-26"
+            }
+        },
+        {
+            "id": "sku_H3QEpRBHL5ONLm",
+            "name": "Training: Web Application Security Essentials",
+            "amount": 49500,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>During this interactive training, the participants will be able to identify the top 5 critical vulnerabilities in web applications, understand how exploitation works and learn how to implement the necessary corrective measures. The students will utilize OWASP WebGoat 8.0 and OWASP ZAP to solve the exercises presented during the virtual class. <em>Presented by Fabio Cerullo</em></p>",
+                "discountable": "True",
+                "display_order": "0",
+                "display_end": "2020-04-26"
+            }
+        },
+        {
+            "id": "sku_H3QHzTjvFeE2EC",
+            "name": "Activity: Capture The Flag (CTF)",
+            "amount": 2500,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>Virtually compete in CMD+CTRL, a web application cyber range where players exploit their way through hundreds of vulnerabilities that lurk in business applications today. CMD+CTRL is ideal for development teams to train and develop skills, but anyone involved in keeping your organization’s data secure can play - from developers and managers and even CISOs.</p>",
+                "discountable": "True",
+                "display_order": "45",
+                "inventory": "99",
+                "starting_inventory": "99",
+                "display_start": "2020-04-01",
+                "display_end": "2020-04-29"
+            }
+        },
+        {
+            "id": "sku_H6tONagQua7coK",
+            "name": "Conference: Registration for $FREE Lightning Talks",
+            "amount": 0,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>Join AppSec experts on April 27th for a series of short talks. This part of the program is a $FREE Webinar</p>",
+                "display_order": "34",
+                "discountable": "False",
+                "display_end": "2020-04-26"
+            }
+        }
+    ]
+}

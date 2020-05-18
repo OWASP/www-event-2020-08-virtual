@@ -1,0 +1,35 @@
+# conferenceteam:
+#   - name: Bhushan Gupta
+#     image: team_bhushan_gupta.jpg
+#   - name: Bil Corry
+#     image: team_bil_corry.jpg
+#   - name: Frank Rietta
+#     image: team_frank_rietta.jpg
+#   - name: Glen Gomez Zuazo
+#     image: team_glen_gomez_zuazo.png
+#   - name: Kevin Buck
+#     image: team_kevin_buck.jpg
+#   - name: Aaron Rinehart
+#     image: team_aaron_rinehart.png
+staff: 
+  - name: Mike McCamon 
+    role: Executive Director
+    image: staff_mike.jpg
+  - name: Harold Blankenship
+    role: Director of Technology and Projects
+    image: staff_harold.jpg
+  - name: Emily Berman
+    role: Director of Events
+    image: staff_emily.jpg
+  - name: Kelly Santalucia
+    role: Director of Corporate Support
+    image: staff_kelly.jpg
+  - name: Dawn Aitken
+    role: Community and Operations Manager
+    image: staff_dawn.png
+  - name: Lisa Jones
+    role: Sales and Marketing Operations Manager
+    image: staff_lisa.jpg
+  - name: Sibah Poede
+    role: Events Coordinator
+    image: staff_sibah.jpg
