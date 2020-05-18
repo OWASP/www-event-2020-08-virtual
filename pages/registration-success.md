@@ -14,7 +14,7 @@ layout: event_noheader
 3. Your training may also reachout with details about your specific course.
 
 ## Event Details
-- Tuesday, April 28th through Wednesday, April 29th, 2020
+- Tuesday, August 25th through Wednesday, August 26th, 2020
 
 
-Any lingering questions contact [events@owasp.com](mailto:events@owasp.com?subject=Virtual%20AppSecDays%20June%202020%20Registered).
+Any lingering questions contact [events@owasp.com](mailto:events@owasp.com?subject=Virtual%20AppSecDays%20August%202020%20Registered).

@@ -2,7 +2,7 @@
 
 title: Schedule & Trainings
 layout: event_noheader
-permalink: /trainings/
+permalink: /
 
 ---
 
@@ -11,7 +11,7 @@ permalink: /trainings/
 # {{ page.title }}
 <br>
 
-**Tuesday, June 23** and **Wednesday, June 24** 
+**Tuesday, August 25** and **Wednesday, August 26** 
 * Virtual Training Courses
 * 12:00pm to 4:00pm EDT/1800pm to 2000pm CET 
 

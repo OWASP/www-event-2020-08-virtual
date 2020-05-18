@@ -1,6 +1,6 @@
 ---
 
-title: OWASP Virtual AppSec Days April 2020
+title: OWASP Virtual AppSec Days August 2020
 layout: event
 
 ---
@@ -8,14 +8,11 @@ layout: event
 {
   "@context": "https://schema.org",
   "@type": "Event",
-  "name": "OWASP Virtual AppSec Days April 2020",
-  "description": "The OWASP Foundation is hosting a Virtual AppSec Days on April 27-29th. 
-        We will be running a 90 minute virtual mini-conference Monday, April 27, 
-        followed by 8-hour virtual training courses offered in 4-hour blocks on the 28th-29th. 
-        The trainings will begin at 12:00pm Eastern Time (USA)/6:00pm Central European Time.
-        The event wraps-up with a hosted by Security Innovation. Put your skills to the test in this 48-hour competition.",
-  "startDate": "2020-04-27",
-  "endDate": "2020-04-29",
+  "name": "OWASP Virtual AppSec Days Summer of Security 2020",
+  "description": "The OWASP Foundation is hosting Virtual AppSec Days on the last Tuesday and Wednesday in June, July, and August. 
+        The trainings will begin at 12:00pm Eastern Time (USA)/6:00pm Central European Time.",
+  "startDate": "2020-06-23",
+  "endDate": "2020-08-26",
   "eventStatus": "https://schema.org/EventMovedOnline",
   "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode",
   "location": {
@@ -24,18 +21,10 @@ layout: event
   },
   "offers": [{
     "@type": "Offer",
-    "name": "Mini-Conference",
-    "price": "0",
-    "priceCurrency": "USD",
-    "validFrom": "2020-04-07",
-    "url": "https://appsecdays.org/",
-    "availability": "https://schema.org/InStock"
-  },{
-    "@type": "Offer",
     "name": "Training Courses",
     "price": "495",
     "priceCurrency": "USD",
-    "validFrom": "2020-04-07",
+    "validFrom": "2020-05-20",
     "url": "https://appsecdays.org/register/",
     "availability": "https://schema.org/InStock"
   },{
@@ -43,15 +32,7 @@ layout: event
     "name": "Member Training Courses",
     "price": "445",
     "priceCurrency": "USD",
-    "validFrom": "2020-04-07",
-    "url": "https://appsecdays.org/register/",
-    "availability": "https://schema.org/InStock"
-  },{
-    "@type": "Offer",
-    "name": "CTF",
-    "price": "25",
-    "priceCurrency": "USD",
-    "validFrom": "2020-04-07",
+    "validFrom": "2020-05-20",
     "url": "https://appsecdays.org/register/",
     "availability": "https://schema.org/InStock"
   }]
