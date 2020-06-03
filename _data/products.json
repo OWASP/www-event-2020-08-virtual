@@ -79,6 +79,17 @@
                 "discountable": "True",
                 "display_order": "7"
             }
+        },
+        {
+            "id": "sku_HOuJFM5gKuTMGg",
+            "name": "Training: Securing the Container Platform",
+            "amount": 49500,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>Containers are in popular use as the distribution vehicle for cloud-native application services. In this workshop, you'll learn about the fundamental aspects of security that associate with the platform components.  <strong><em>Presented by Mehul Patel</em></strong></p>",
+                "discountable": "True",
+                "display_order": "8"
+            }
         }
     ]
 }
