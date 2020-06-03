@@ -1,1 +1,18 @@
-{"id": "prod_HOuBfLgCuey35T", "name": "August Virtual AppSec Days Summer of Security", "currency": "usd", "products": []}
+{
+    "id": "prod_HOuBfLgCuey35T",
+    "name": "August Virtual AppSec Days Summer of Security",
+    "currency": "usd",
+    "products": [
+        {
+            "id": "sku_HOuDe84Hc1hBGm",
+            "name": "Training: Ethical Hacking for Beginners",
+            "amount": 49500,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>Ethical Hacking is quite effective for organizations to find out the vulnerabilities of information systems and fix the weaknesses before malicious hackers or adversaries may exploit their systems. This training session is formed to make the students aware of various hacking tools being used in the industry by cybersecurity professionals. <strong><em>Presented by Muhammad Aamir</em></strong></p>",
+                "discountable": "True",
+                "display_order": "1"
+            }
+        }
+    ]
+}
