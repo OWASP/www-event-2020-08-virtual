@@ -13,6 +13,17 @@
                 "discountable": "True",
                 "display_order": "1"
             }
+        },
+        {
+            "id": "sku_HOuEAjaDkkN1FO",
+            "name": "Training: Practical OWASP ZAP Scripting",
+            "amount": 49500,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>During this training you will learn how to work from zero to hero with OWASP ZAP, write your own malicious scripts to run your arbitrary codes and security tests on your target.<br />\nThis training will focus on deep understanding about one of the best penetration test tools “OWASP ZAP” and techniques to write our own scripts in it. <strong><em>Presented by Ali Abdollahi</em></strong></p>",
+                "discountable": "True",
+                "display_order": "2"
+            }
         }
     ]
 }
