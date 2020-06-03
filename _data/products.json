@@ -57,6 +57,17 @@
                 "discountable": "True",
                 "display_order": "5"
             }
+        },
+        {
+            "id": "sku_HOuHivnpOAdYcB",
+            "name": "Training: DevSecOps with GitHub Actions and Azure",
+            "amount": 49500,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>DevSecOps, as defined for this course, is performing application security activities, in a DevOps environment. This course will kick off with brief theory about AppSec and DevOps, and then spend the rest of the day locking down your GitHub repo, creating a CI/CD using GitHub Actions, adding  security tools to your CI/CD, and finding security bugs. <strong><em>Presented by Tanya Janca</em></strong></p>",
+                "discountable": "True",
+                "display_order": "6"
+            }
         }
     ]
 }
