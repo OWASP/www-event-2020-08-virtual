@@ -46,6 +46,17 @@
                 "discountable": "True",
                 "display_order": "4"
             }
+        },
+        {
+            "id": "sku_HOuGOMSbuaiIro",
+            "name": "Training: Fuzzing: An effective alternative to code review and penetration testing",
+            "amount": 49500,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>This course aims to provide a strong base to use fuzzing as an effective alternative to discover vulnerabilities. Attendees will gain usable knowledge on fuzzing, learn to build an effective wordlist, use Python to build application specific fuzzing tools and see use cases to discover OWASP TOP 10 vulnerabilities using fuzzing. <strong><em>Presented by Alper Basaran</em></strong></p>",
+                "discountable": "True",
+                "display_order": "5"
+            }
         }
     ]
 }
