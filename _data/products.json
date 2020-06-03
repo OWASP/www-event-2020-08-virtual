@@ -68,6 +68,17 @@
                 "discountable": "True",
                 "display_order": "6"
             }
+        },
+        {
+            "id": "sku_HOuI1vlSNzwCRH",
+            "name": "Training: Web the API Security",
+            "amount": 49500,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>The session would be for Beginners and would cover Common occuring bugs in Web APIs , Some Hands On Training with the online Labs, and some Prevention Techniques for the most common attacks and Some case studies. <strong><em>Presented by Tushar Kulkarni</em></strong></p>",
+                "discountable": "True",
+                "display_order": "7"
+            }
         }
     ]
 }
