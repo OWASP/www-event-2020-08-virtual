@@ -101,6 +101,17 @@
                 "discountable": "True",
                 "display_order": "9"
             }
+        },
+        {
+            "id": "sku_HOuKN2MC5W2mfv",
+            "name": "Training: Secure By Design: Threat Modeling For Developers",
+            "amount": 49500,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>Threat Modeling is one of the most effective security activities that you can do for your application, and will help you identify and prioritize potential threats and mitigations. If you're a developer, this workshop will give you the skills and experience you need to build security into your software and create better products!  <strong><em>Presented by Avi Douglen</em></strong></p>",
+                "discountable": "True",
+                "display_order": "10"
+            }
         }
     ]
 }
