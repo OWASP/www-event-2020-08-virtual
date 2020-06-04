@@ -90,6 +90,17 @@
                 "discountable": "True",
                 "display_order": "8"
             }
+        },
+        {
+            "id": "sku_HOuJZnm9SjNipC",
+            "name": "Training: DevSecOps Hands-on: Putting Security Checks into Your Build Pipeline",
+            "amount": 49500,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>This hands-on workshop integrates security checks into a build pipeline. You will learn and practice what steps can be perfectly automated. Every attendee will get a personal Jenkins server in the cloud ready to use with multiple levels of open-source tool integrations (OWASP ZAP) to create a full-fledged DevSecOps pipeline in guided steps. <strong><em>Presented by Christian Schneider</em></strong></p>",
+                "discountable": "True",
+                "display_order": "9"
+            }
         }
     ]
 }
