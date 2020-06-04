@@ -1,5 +1,5 @@
 .training-header {
-
+	margin-bottom:16px;
 }
 
 .trainer-header{
@@ -14,7 +14,7 @@
 .training-container{
 	height:90px;
 	width: 100%;
-	padding-left: 2em;
+	padding-left: 0;
 }
 
 .trainer-container {
@@ -24,10 +24,10 @@
 .trainer-container-mobile {
 	display:none;
 }
-
+/* 
 .trainer-section:nth-child(even){
 	background-color: #f3f4f6;
-}
+} */
 
 .info-container{
 	padding-left:.5em;
@@ -36,6 +36,7 @@
 
 .bio-container {
 	margin-left: 1em;
+	margin-bottom: 2em;
 }
 
 .no-margin {
@@ -52,6 +53,18 @@
 	background-repeat:no-repeat;
 	background-size: cover;
 	background-position:center;
+}
+
+.active {
+	background-color: lightgray;	
+	padding: 8px;
+	border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+	border-style: solid;
+	border-top: 1px;
+	border-left: 1px;
+	border-right: 1px;
+	border-bottom: 0px;
 }
 
 
