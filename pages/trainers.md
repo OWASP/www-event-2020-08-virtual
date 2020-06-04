@@ -11,7 +11,7 @@ permalink: /trainers/
 # {{page.title}}
 <br>
 
-{% if site.data.trainings.count > 0 %}
+{% if site.data.trainings.size > 0 %}
 
 {% assign trainings = site.data.trainings | sort: 'Title' %}
 {% for training in trainings %}

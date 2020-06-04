@@ -1,24 +1,312 @@
-﻿# - Type: Training
-#   Trainers:
-#     - Name: Sebastien Deleersnyder
-#       Email: seba@toreon.com
-#       Image: https://owasp.wufoo.com/cabinet/3627cfa5-3b87-4973-8d5e-110013c0c524
-#       Twitter: 'Sebadele'
-#       Biography: >-
-#         Seba is co-founder and CEO of Toreon. He started the Belgian OWASP chapter,
-#         co-leads the OWASP SAMM project, and co-founded the yearly BruCON
-#         conference. With a background in development and many years of experience in
-#         security, Seba has trained countless developers to create more secure
-#         software. He adapts application security models to the evolving field of
-#         DevOps and brings Threat Modeling to a wider audience (including teaching
-#         Whiteboard Hacking at Black Hat).
-#       TrainerId: sebastien_deleersnyder
-#   Title: Hands-on threat modeling and tooling for DevSecOps
-#   URL: /register/?id=sku_H1yCWioFa4VeId
-#   SectionId: sku_H1yCWioFa4VeId
-#   Description: >-
-#     Action-packed Threat Modeling course for DevOps to improve reliability &
-#     security of software. We teach a risk-based, iterative and incremental
-#     threat modeling method. At least 50% hands-on workshops covering the
-#     different stages of threat modeling on an incremental business driven CI/CD
-#     scenario for AWS. 94% satisfaction score O’Reilly Velocity.
+﻿- Type: Training
+  Trainers:
+    - Name: Muhammad Aamir
+      Email: muhammad.aamir@ieee.org
+      Image: /assets/images/trainers/trainer-muhammad-aamir.jpg
+      Twitter: Muhammad__Aamir
+      Biography: The trainer of this course is a cybersecurity certified professional i.e. Certified Information 
+        Systems Security Professional (CISSP) and Certified Ethical Hacker (CEH) with more than 12 years of work 
+        experience. He works in the field of cybersecurity for various domains such as cybersecurity research 
+        and threat intelligence, training for cybersecurity user awareness, cybersecurity policies/frameworks, 
+        and penetration testing. He has a passion of teaching and likes to share the knowledge obtained during 
+        job tasks. He has also conducted on premise classes as well as online sessions to deliver the lectures 
+        on Ethical Hacking to university students as visiting faculty.
+      TrainerId: muhammad_aamir
+  Title: Ethical Hacking for Beginners 
+  URL: /register/?id=sku_HOuDe84Hc1hBGm
+  SectionId: sku_HOuDe84Hc1hBGm
+  Description: "This course is based on Ethical Hacking also known as Penetration Testing. The hacking, when 
+    done in ethical ways with the permission of the asset owner, turns out to be quite effective for 
+    organizations to find out the vulnerabilities in their environment of information systems and enable them 
+    to fix those weaknesses before malicious hackers or adversaries may exploit their systems. This kind of 
+    hacking is classified as White Hat Hacking. This course is formulated to make the students aware of various 
+    hacking tools being used in the industry by cybersecurity professionals. The methodology of the course 
+    covers more than 90% practical hands-on approach.<br>
+    Learning Outcomes: Students will be able to distinguish ethical hacking from malicious hacking knowing the 
+    concepts of White Hat and Black Hat hacking. They will get hands-on knowledge to perform the hacking tasks 
+    in ethical ways to improve the security of assets by using various hacking tools.<br>
+    <strong>Resources for hands-on approach:</strong><br>
+    <ol>
+    <li>Attack side: Kali Linux 2020.x, NMAP, Metasploit Framework (MSF).</li>
+    <li>Victim side: Metasploitable, MS Windows 10, OWASP Resources i.e. Damn Vulnerable Web Application (DVWA) and buggy Web Application (bWAPP).</li>
+    </ol>
+    Note: The above resources will be installed and organized in a virtual environment i.e. Oracle VM 
+    Virtualbox."
+- Type: Training
+  Trainers: 
+    - Name: Ali Abdollahi
+      Email: ali.abdollahi19@gmail.com
+      Image: /assets/images/trainers/trainer-ali-abhollahi.png
+      Twitter: aliabdollahi2
+      Biography: Ali Abdollahi a Cybersecurity consultant with over 8 years of experience working 
+        in a variety of security fields. Currently the cybersecurity division manager, Board 
+        of review, author and instructor at Hakin9, Pentest &eForensics magazine. Ali is a 
+        self-confessed bug hunter, publisher of many vulnerabilities and CVEs, author books 
+        and some articles in the field of cybersecurity. Ali is a regular speaker and trainer 
+        at industry conferences and events.
+      TrainerId: ali_abdollahi
+  Title: Practical OWASP ZAP Scripting
+  URL: /register/?id=sku_HOuEAjaDkkN1FO
+  SectionId: sku_HOuEAjaDkkN1FO
+  Description: "During this training (Workshop) you will learn how to write scripts to attack 
+    websites, and you will also learn to write your own malicious scripts In OWASP ZAP to 
+    run your arbitrary codes and security tests on your target.<br>
+    This training (Workshop) will focus on deep understanding about one of the best 
+    penetration test tools 'OWASP ZAP' and techniques to write our own scripts in it."
+- Type: Training
+  Trainers:
+    - Name: Abraham Aranguren
+      Email: admin@7asecurity.com
+      Image: /assets/images/trainers/trainer-abraham-aranguren.png
+      Twitter: 7asecurity
+      Biography: "After 13 years in itsec and 20 in IT Abraham is now the CEO of 7ASecurity 
+        (7asecurity.com), a company specializing in penetration testing of web/mobile apps, 
+        infrastructure, code reviews and training. Former senior penetration tester / team 
+        lead at Cure53 (cure53.de) and Version 1 (www.version1.com). Creator of 'Practical 
+        Web Defense' - a hands-on eLearnSecurity attack / defense course 
+        (www.elearnsecurity.com/PWD), OWASP OWTF project leader, an OWASP flagship project 
+        (owtf.org), Major degree and Diploma in Computer Science, some certs: CISSP, OSCP, 
+        GWEB, OSWP, CPTS, CEH, MCSE:Security, MCSA:Security, Security+. As a shell scripting 
+        fan trained by unix dinosaurs, Abraham wears a proud manly beard. He writes on 
+        Twitter as @7asecurity @7a_ @owtfp or https://7asecurity.com/blog. Multiple 
+        presentations, pentest reports and recordings can be found at 
+        https://7asecurity.com/publications"
+      TrainerId: abraham_aranguren
+  Title: Hacking Android & IoT apps by Example
+  URL: /register/?id=sku_HOuEQL4zzGCjEu
+  SectionId: sku_HOuEQL4zzGCjEu
+  Description: "This course is a 100% hands-on deep dive into the OWASP Mobile Security 
+    Testing Guide (MSTG) and relevant items of the OWASP Mobile Application Security 
+    Verification Standard (MASVS), so this course covers and goes beyond the OWASP Mobile 
+    Top Ten.<br>
+    Learn about Android and IoT app security by improving your mobile security testing 
+    kung-fu. Ideal for Penetration Testers, Mobile Developers and everybody interested in 
+    mobile app security.<br>
+    All action, no fluff, improve your security analysis workflow and immediately apply 
+    these gained skills in your workplace, packed with exercises, extra mile challenges 
+    and CTF, self-paced and suitable for all skill levels, with continued education via 
+    unlimited email support and lifetime access to training portal with step-by-step video 
+    recordings and interesting apps to practice, including all future updates for free!"
+- Type: Training
+  Trainers:
+    - Name: Gabriel Avramescu
+      Email: gabriel.avramescu@ituniversity.ro
+      Image: /assets/images/trainers/trainer-gabriel-avramescu.jpg
+      Twitter: ituniversityro
+      Biography: "I work as a penetration tester with over 8 years of experience and as 
+        a trainer with over 14 years (5 in the security field).<br>
+        <strong>Certifications:</strong> OSCP, CEH, ECSA, CHFI, ISO 27001, CREST CRT, CREST CPSA, etc.<br>
+        <strong>Penetration testing customers:</strong> over 15 companies in different areas: retail 
+        companies (Metro/Makro, Real, Carrefour), banking and insurance and IFN 
+        (Raiffeisen, BRD, Orange Money, NN, Ergo, etc.), ride-sharing companies<br>
+        <strong>Penetration testing areas:</strong> Web and mobile, code review, infrastructure, Wi-Fi and 
+        Social Engineering<br>
+        <strong>Trainer for:</strong>CEH, CHFI, ECSA, Custom security training ( Secure 
+        Development, Ethical Hacking, Social Engineering), CNA, CCNA Security"
+      TrainerId: gabriel_avramescu 
+  Title: Ethical Hacking - security seen from an offensive perspective
+  URL: /register/?id=sku_HOuGUsrIIvMVO2
+  SectionId: sku_HOuGUsrIIvMVO2
+  Description: "Course learning objectives<br>
+    <ul>
+    <li>Develop ”Out-of-box” thinking</li>
+    <li>See security from an offensive perspective</li>
+    </ul>
+    The course is both theoretical and practical (presentations and demos). 
+    The students will have access to VMs used during the demos and also to the 
+    presentations."
+- Type: Training
+  Trainers:
+    - Name: Alper Basaran
+      Email: basaranalper@gmail.com
+      Image: /assets/images/trainers/trainer-alper-basaran.jpg
+      Twitter: basaranalper
+      Biography: "Alper Basaran has over 15 years experience in penetraion testing and 
+        source code review. He has mainly worked with government agencies, military units 
+        and enterprise level software development companies. His company, Sparta Bilisim, 
+        provides cybersecurity consulting and penetration testing services throughout the 
+        Middle-East, North Africa, Europe and Central Asia.<br>
+        He is the OWASP Ankara Chapter leader and provides free trainings to universities 
+        and NGOs in cyber security awareness and penetration testing. Alper is a published 
+        author with 3 published books and a registered keynote speaker with the Celebrity 
+        Speakers Agency."
+      TrainerId: alper_basaran
+  Title: "Fuzzing: An effective alternative to code review and penetration testing"
+  URL: /register/?id=sku_HOuGOMSbuaiIro
+  SectionId: sku_HOuGOMSbuaiIro
+  Description: "Conducting an effective application penetration testing requires 
+    specialized knowledge and experience. Penetration tests are costly and often only 
+    considered at, or towards the end of any software development process. On the other 
+    hand, most software companies and specially start-ups do not have any resources to 
+    invest in source code reviews. These considered, if done correctly, fuzzing can 
+    provide an effective alternative that can easily be included in any secure software 
+    development process.<br>
+    This course aims to provide a strong base to use fuzzing as an effective alternative 
+    to discover vulnerabilities. Attendees will gain usable knowledge on fuzzing, learn 
+    to build an effective wordlist, use Python to build application specific fuzzing tools 
+    and see use cases to discover OWASP TOP 10 vulnerabilities using fuzzing. The course 
+    will also provide guidelines to include fuzzing in the software development process 
+    and the possible use of machine learning and baseline analysis to enrich returns from 
+    fuzzing."
+- Type: Training
+  Trainers:
+    - Name: Tanya Janca
+      Email: tanya.janca@owasp.org
+      Image: /assets/images/trainers/trainer-tanya-janca.jpg
+      Twitter: shehackspurple
+      Biography: "Tanya Janca, also known as ‘SheHacksPurple’, is the founder, security 
+        trainer and coach of SheHacksPurple.dev, specializing in software and cloud 
+        security. Her obsession with securing software runs deep, from starting her 
+        company, to running her own OWASP chapter for 4 years in Ottawa, co-founding a 
+        new OWASP chapter in Victoria, and co-founding the OWASP DevSlop open-source and 
+        education project. With her countless blog articles, workshops and talks, her focus 
+        is clear. Tanya is also an advocate for diversity and inclusion, co-founding the 
+        international women’s organization WoSEC, starting the online #CyberMentoringMonday 
+        initiative, and personally mentoring, advocating for and enabling countless other 
+        women in her field. As a professional computer geek of 20+ years, she is a person 
+        who is truly fascinated by the ‘science’ of computer science."
+      TrainerId: tanya_janca
+  Title: 
+  URL: /register/?id=sku_HOuHivnpOAdYcB
+  SectionId: sku_HOuHivnpOAdYcB
+  Description: "DevSecOps, as defined for this course, is performing application security 
+    activities, in a DevOps environment. This course will kick off with brief theory about 
+    AppSec and DevOps, and then spend the rest of the day locking down your GitHub repo, 
+    creating a CI/CD using GitHub Actions, adding several security tools to your CI/CD, 
+    finding security bugs, deploying your app to Azure, and then locking down your 
+    infrastructure in Azure.<br>
+    Tooling: GitHub Actions, SCA, Secret Scanning, DAST, GitHub Secret Store, Azure 
+    Security Center<br>
+    This course is hands-on. You will need a GitHub account and Azure Trial ready *before* 
+    the course starts. Do NOT use your work Azure account, we will be adding an insecure 
+    app to your trial instance."
+- Type: Training
+  Trainers:
+    - Name: Tushar Kulkarni
+      Email: kulkarnivtushar@gmail.com
+      Image: /assets/images/trainers/trainer-tushar-kulkarni.jpg
+      Twitter: vk_tushar
+      Biography: "Security Analyst at Tata Consultancy Services<br>
+        Chapter Lead at OWASP Nagpur"
+      TrainerId: tushar_kulkarni
+  Title: Web the API Security
+  URL: /register/?id=sku_HOuI1vlSNzwCRH
+  SectionId: sku_HOuI1vlSNzwCRH
+  Description: We see Developers moving from traditional 2-tier applications to an 
+    application which involves an API for fetching data to the application. Since Web 
+    APIs are platform independent they can be used by Mobile apps ,Web apps and with 
+    lots of other interfaces.This training session would include Penetration Testing of 
+    Web APIs , The best practices to be followed by Developers while creating such APIs 
+    and some labs/demo as an example.
+- Type: Training
+  Trainers:
+    - Name: Mehul Patel
+      Email: mehulpofficial@gmail.com
+      Image: /assets/images/trainers/trainer-mehul-patel.jpg
+      Twitter: rowdymehul
+      Biography: "Hi, I'm Mehul Patel and I specialize in Information Technology and 
+        Services. I’m passionate about what I do. I am a Developer Tech by profession, 
+        an open-source enthusiast, Linux geeky, and a maker by heart.<br>
+        I hold *Masters in Computers Science* and have been working relentlessly and 
+        contributing towards the open source community in all ways I can.<br>
+        I am an active member of the *Mozilla* Community which is a program run by a 
+        group of highly trained & passionate Mozillians(Tech enthusiasts),  who share 
+        technical knowledge about Firefox, Mozilla, OpenSource and the Web at various 
+        regional developer-facing events. Currently, I am acting as a Rust Mobilizer in 
+        the community and trying best to aware people of this awesome and secure 
+        programming language. I am also part of other opensource peers like WordPress, 
+        Red Hat Linux, Debian, OpenStack, Auth0, and much more.<br>
+        I also represent Mozilla while being on the *Campus Advisory Committee*, a *Reps 
+        Mentor* and ambassador at *Auth0*. I have been invited as a Technical Speaker at 
+        All things open, OWASP AppSec Israel, LinuxCon, Open Innovation Summit, MozFest, 
+        ServerlessDays and so on to share and educate tech enthusiasts regarding 
+        opensource technologies Like Red Hat, WordPress, Rust, Virtualization, server 
+        securities & hardening and much more. I frequently blog at 
+        https://medium.com/@rowdymehul<br>
+        List of key talks and publications: http://bit.ly/2FVfzDE"
+      TrainerId: mehul_patel
+  Title: Securing the Container Platform
+  URL: /register/?id=sku_HOuJFM5gKuTMGg
+  SectionId: sku_HOuJFM5gKuTMGg
+  Description: Containers are in popular use as the distribution vehicle for cloud-native 
+    application services. In this workshop, you'll learn about the fundamental aspects of 
+    security that associate with the platform components.
+- Type: Training
+  Trainers:
+    - Name: Christian Schneider
+      Email: mail@christian-schneider.net
+      Image: /assets/images/trainers/trainer-christian-schneider.jpg
+      Twitter: cschneider4711
+      Biography: Christian has pursued a successful career as a freelance Java software 
+        developer since 1997 and expanded it in 2005 to include the focus on IT security. 
+        His major areas of work are penetration testing, security architecture consulting, 
+        and threat modeling. As a trainer, Christian regularly conducts in-house training 
+        courses on topics like web application security and coaches agile projects to 
+        include security as part of their process by applying DevSecOps concepts. Christian 
+        regularly enjoys speaking and giving trainings on major national and international 
+        conferences. 
+      TrainerId: christian_schneider
+  Title: "DevSecOps Workshop: Putting Security Checks into your Build Pipeline"
+  URL: /register/?id=sku_HOuJZnm9SjNipC
+  SectionId: sku_HOuJZnm9SjNipC
+  Description: This course gives insight into automation capabilities of security scans, 
+    which perfectly fit into many build pipelines. Taking into account frontends (Web) 
+    as well as backends (APIs), you will learn what steps of a security analysis can be 
+    best automated – and how. By focussing on OpenSource solutions (OWASP ZAP), you will 
+    get a tool arsenal with different automation options ready to test your application’s 
+    security on every build. During this workshop we will enhance a typical Jenkins-based 
+    CI/CD pipeline (every attendee will get an individual Jenkins server in the cloud 
+    ready to use with multiple levels of tool integrations) with a specially prepared 
+    vulnerable training application step by step into a full-fledged awesome DevSecOps 
+    AppSecPipeline.
+- Type: Training
+  Trainers:
+    - Name: Avi Douglen
+      Email: avid@bouncesecurity.com
+      Image: /assets/images/trainers/trainer-avi-douglen.png
+      Twitter: sec_tigger
+      Biography: "AviD is a high-end, independent security architect and developer, with 
+        decades of experience implementing security requirements and protecting complex 
+        systems. He has been designing, developing, and testing secure applications for 
+        over 20 years, and is obsessed with maximizing value output from security efforts, 
+        since originally building threat models at Microsoft over a dozen years ago.<br>
+        Avi leads consulting at Bounce Security, where he supports organizations of all 
+        sizes in integrating security methodologies and products into their development 
+        processes, often providing training on secure coding and other security topics. 
+        We utilize various methodologies as circumstances demand, and adjust accordingly. 
+        Recently, our relentless drive to optimize security investment and threat modeling 
+        in particular, has led us to adapt the classic threat modeling methodology to a 
+        more agile workflow in order to empower developers and agile R&D teams.<br>
+        Mr. Douglen is a frequent trainer and speaker at industry conferences, such as 
+        OWASP, RSA, BSides, and Infosec, as well as developer conferences such as O’Reilly, 
+        DevSecCon, PyCon, and DevOpsDays. He has trained hundreds of developers on security, 
+        including secure coding, security architecture, threat modeling, and more.<br>
+        Avi also co-founded the OWASP Threat Modeling project, and is one of the project 
+        leaders. He also leads the OWASP Israel chapter, and created the successful AppSec 
+        Israel security conference. He volunteers as a high school tech teacher and mentor, 
+        and is also a community moderator on https://Security.StackExchange.com/."
+      TrainerId: avi_douglen
+  Title: "Secure By Design: Threat Modeling For Developers"
+  URL: /register/?id=sku_HOuKN2MC5W2mfv
+  SectionId: sku_HOuKN2MC5W2mfv
+  Description: "You’ve decided that your products require a higher level of security, and 
+    now you need to start introducing security into your software design activities. But 
+    with a focus on quick delivery, your team doesn't have much bandwidth to discuss 
+    quality or security, let alone integrate heavyweight security activities into the 
+    development workflow...<br> 
+    *Threat Modeling* is one of the most effective security activities that can be 
+    performed for a software application. Using a structured methodology for 
+    security-based analysis of a complex system can help you identify and prioritize 
+    potential threats and attack vectors, and understand the appropriate mitigations. A 
+    good threat model is essential for a robust, secure design and architecture, and can 
+    support mitigation of all relevant threats. This can also build customer confidence.<br>
+    As a developer, you want to be empowered to contribute to the security design, and 
+    take ownership of the security features in your products. With training and some 
+    tangible experience, you could independently create the threat models for your 
+    applications and design a more secure architecture, easing the load off your security 
+    team, and creating deeper integration and a higher level of security than enforcing it 
+    externally.<br>
+    This Threat Modeling Workshop will kickstart your security design efforts, teach your 
+    developers the skills required to build their own threat models for your products, and 
+    train with actual hands-on experience so that you are confident to continue designing 
+    secure products based on threat modeling."
