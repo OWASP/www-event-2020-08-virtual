@@ -6,14 +6,14 @@
       url : https://july.appsecdays.org/
     - title: August
       url: /
-    - title: April (past)
-      url: https://april.appsecdays.org/
 - title: SPONSORING
   url: https://appsecdays.org/sponsors/
 - title: ABOUT
   items:
     - title: How to Connect
       url : https://appsecdays.org/venue/about/
+    - title: April (past)
+      url: https://april.appsecdays.org/
     - title: OWASP Foundation
       url  : https://owasp.org/
       opentab: true
