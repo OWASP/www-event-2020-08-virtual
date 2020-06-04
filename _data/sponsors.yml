@@ -1,5 +1,13 @@
 
-#- logo: https://owasp.org/assets/images/corp-member-logo/secure-code-warrior.png
-#   name: Secure Code Warrior
-#   url: https://securecodewarrior.com
-#   type: Gold
+ - logo: https://owasp.org/assets/images/corp-member-logo/acunetix.png
+   name: Acunetix
+   url: https://www.acunetix.com/web-vulnerability-scanner/us-demo/?utm_medium=events&utm_source=tradeshow&utm_campaign=2020-q2-a-events-tradeshow-owaspvirtualappsec2
+   type: Other
+ - logo: https://owasp.org/assets/images/corp-member-logo/checkmarx.png
+   name: Checkmarx
+   url: https://www.checkmarx.com/
+   type: 
+ - logo: https://owasp.org/assets/images/corp-member-logo/netsparker.png
+   name: Netsparker
+   url:  https://www.netsparker.com/get-demo/?ab=v3&utm_medium=events&utm_source=tradeshow&utm_campaign=2020-q2-n-events-tradeshow-owaspvirtualappsec2
+   type: 
