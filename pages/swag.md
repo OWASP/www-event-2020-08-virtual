@@ -14,8 +14,12 @@ This is your chance to grab some swag.  The sponsors below are providing the sta
 * $100 Amazon Gift Card
 * Check out the demo [here]( https://www.acunetix.com/web-vulnerability-scanner/us-demo/?utm_medium=events&utm_source=tradeshow&utm_campaign=2020-q2-a-events-tradeshow-owaspvirtualappsec3)
 
+### [![Bridgecrew](https://owasp.org/assets/images/corp-member-logo/bridgecrew.png){:width='150px'}]((https://bridgecrew.io/?utm_source=tradeshow&utm_medium=event&utm_campaign=owaspvirtualappsec20)
+* $100 Amazon Gift Card
+* Check out the demo [here](https://bridgecrew.io/event/owasp-summer-of-security-raffle/)
+
 ### [![Checkmarx](https://owasp.org/assets/images/corp-member-logo/checkmarx.png){:width='150px'}](https://www.checkmarx.com/?utm_source=tradeshow&utm_medium=event&utm_campaign=owaspvirtualappsec20)
-* Check out the demo [here](https://www.checkmarx.com/)
+* Check out the demo [here](https://info.checkmarx.com/event-owasp-virtual-appsec-demo?utm_medium=event&utm_source=tradeshow&utm_campaign=2020-q2-a-events-tradeshow-owaspvirtualappsec2&utm_search_query=Demo)
 
 ### [![Netsparker](https://owasp.org/assets/images/corp-member-logo/netsparker.png){:width='150px'}](https://www.netsparker.com/?utm_source=tradeshow&utm_medium=event&utm_campaign=owaspvirtualappsec20)
 * $100 Amazon Gift Card
