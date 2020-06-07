@@ -13,7 +13,7 @@ permalink: /
 
 **Tuesday, August 25** and **Wednesday, August 26** 
 * Virtual Training Courses
-* 12:00pm to 4:00pm EDT/1800pm to 2000pm CET 
+* 12:00pm to 4:00pm EDT/1800pm to 2200pm CET 
 
 **Training subject to change based on trainer availability.**
 {% if site.data.trainings.size > 0 %}
