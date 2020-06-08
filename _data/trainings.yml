@@ -107,14 +107,16 @@
   Title: Ethical Hacking - security seen from an offensive perspective
   URL: /register/?id=sku_HOuGUsrIIvMVO2
   SectionId: sku_HOuGUsrIIvMVO2
-  Description: "Course learning objectives<br>
-    <ul>
-    <li>Develop ”Out-of-box” thinking</li>
-    <li>See security from an offensive perspective</li>
-    </ul>
-    The course is both theoretical and practical (presentations and demos). 
-    The students will have access to VMs used during the demos and also to the 
-    presentations."
+  Description: "Course learning objectives:<br>
+    • Develop ”Out-of-box” thinking<br> 
+    • See security from an offensive perspective<br><br> 
+    Course learning modules:<br> 
+    • Penetration testing overview<br> 
+    • Various types of footprinting, footprinting tools, and countermeasures<br> 
+    • Network scanning techniques and scanning countermeasures<br>
+    • Enumeration techniques and enumeration countermeasures<br>
+    • System hacking methodology<br>
+    • Packet sniffing techniques and how to defend against sniffing, session hijacking, HSTS bypass"
 - Type: Training
   Trainers:
     - Name: Alper Basaran
