@@ -26,7 +26,7 @@ permalink: /
 <li class="training-desc">{{ trainer.Description }}</li>
     <ul>
         {% for tr in trainer.Trainers %}
-        <li><div class="training-container"><a href="/trainers/#{{tr.TrainerId}}" title="{{tr.Biography}}"><div class="training-image" style="background-image:url('{{tr.Image}}');"></div>{{tr.Name}}</a></div></li>
+        <li><div class="training-container"><a href="/trainers/#{{tr.TrainerId}}" title="{{tr.Biography | strip_html}}"><div class="training-image" style="background-image:url('{{tr.Image}}');"></div>{{tr.Name}}</a></div></li>
         {% endfor %}
     </ul>
 </ul>
