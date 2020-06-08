@@ -10,6 +10,11 @@ permalink: /sponsors/swag/
 
 This is your chance to grab some swag.  The sponsors below are providing the stated items to a randomly selected individual from among those who check out their demos:
 
+### [![7A Security](https://owasp.org/assets/images/corp-member-logo/7Asecurity.png){:width='150px'}](https://7asecurity.com/contest-owasp-summer-of-security)
+* Free Pentest and Free Course Contest
+* Check out the demo [here](https://7asecurity.com/contest-owasp-summer-of-security)
+* This promotion is valid for all submissions sent until August 26th 2020.  Winners will be privately contacted after each training event on June 24th, July 29th, and August 26th.	
+
 ### [![Acunetix](https://owasp.org/assets/images/corp-member-logo/acunetix.png){:width='150px'}](https://www.acunetix.com/?utm_source=tradeshow&utm_medium=event&utm_campaign=owaspvirtualappsec20)
 * $100 Amazon Gift Card
 * Check out the demo [here]( https://www.acunetix.com/web-vulnerability-scanner/us-demo/?utm_medium=events&utm_source=tradeshow&utm_campaign=2020-q2-a-events-tradeshow-owaspvirtualappsec3)
