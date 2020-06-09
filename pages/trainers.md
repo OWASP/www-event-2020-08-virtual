@@ -23,7 +23,7 @@ permalink: /trainers/
              <div class="info-container">
              <a href="mailto:{{trainer.Email}}">{{ trainer.Email }}</a><br>
              <a href="https://www.twitter.com/{{trainer.Twitter}}">@{{ trainer.Twitter }}</a><br>
-             <strong>Class:</strong><a href="/trainings/#{{training.SectionId}}">{{ training.Title }}</a>
+             <strong>Class:</strong><a href="/#{{training.SectionId}}">{{ training.Title }}</a>
              </div>
 </div></div></div></li>
 <li class='bio-container'>{{trainer.Biography}}</li>
