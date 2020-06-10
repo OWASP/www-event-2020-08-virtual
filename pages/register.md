@@ -21,6 +21,8 @@ You may also receive communications from the instructor with specific requiremen
 {% endif %}
 
 {% if site.data.event-details.registration_open %}
+### **Please note: All courses take place simultaneously over two days, only register for one.**
+
 {% include registration_form.md show_dietary_restrictions="false" primary_color="#0079a7" %}
 {% endif %}
 

@@ -15,6 +15,8 @@ permalink: /
 * Virtual Training Courses
 * 12:00pm to 4:00pm EDT/1800pm to 2200pm CET 
 
+### **Please note: All courses take place simultaneously over two days, only register for one.**
+
 **Training subject to change based on trainer availability.**
 {% if site.data.trainings.size > 0 %}
 {% assign trainings = site.data.trainings | sort: 'Title' %}
