@@ -13,6 +13,10 @@
    name: Checkmarx
    url: https://www.checkmarx.com/
    type: 
+ - logo: https://owasp.org/assets/images/corp-member-logo/code-dx.png
+   name: CodeDx
+   url: https://codedx.com/
+   type:
  - logo: https://owasp.org/assets/images/corp-member-logo/netsparker.png
    name: Netsparker
    url:  https://www.netsparker.com/get-demo/?ab=v3&utm_medium=events&utm_source=tradeshow&utm_campaign=2020-q2-n-events-tradeshow-owaspvirtualappsec2
