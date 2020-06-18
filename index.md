@@ -1,6 +1,6 @@
 ---
 
-title: OWASP Virtual AppSec Days August 2020
+title: AppSec Days - August 2020
 layout: event
 
 ---
@@ -8,8 +8,8 @@ layout: event
 {
   "@context": "https://schema.org",
   "@type": "Event",
-  "name": "OWASP Virtual AppSec Days Summer of Security 2020",
-  "description": "The OWASP Foundation is hosting Virtual AppSec Days on the last Tuesday and Wednesday in June, July, and August. 
+  "name": "AppSec Days - Summer of Security 2020",
+  "description": "The OWASP Foundation is hosting virtual AppSec Days on the last Tuesday and Wednesday in June, July, and August. 
         The trainings will begin at 12:00pm Eastern Time (USA)/6:00pm Central European Time.",
   "startDate": "2020-06-23",
   "endDate": "2020-08-26",
