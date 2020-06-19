@@ -112,6 +112,17 @@
                 "discountable": "True",
                 "display_order": "10"
             }
+        },
+        {
+            "id": "sku_HRqG1CJvcsHjU7",
+            "name": "Training: Hands-on Threat Modeling and Tooling for DevSecOps",
+            "amount": 49500,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>Steven teaches you how to use threat modeling and tools to integrate security in DevOps. He teaches a risk-based unified threat modeling practice that is in close alignment with your business objectives. With hands-on practical threat modeling challenges, you will learn the different stages of threat modeling on an incremental CI/CD scenario. <strong><em>Presented by Steven Wierckx</em></strong></p>",
+                "discountable": "True",
+                "display_order": "11"
+            }
         }
     ]
 }

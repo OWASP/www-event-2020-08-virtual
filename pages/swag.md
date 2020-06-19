@@ -12,7 +12,7 @@ This is your chance to grab some swag.  The sponsors below are providing the sta
 
 ### [![7A Security](https://owasp.org/assets/images/corp-member-logo/7Asecurity.png){:width='150px'}](https://7asecurity.com/contest-owasp-summer-of-security)
 * Free Pentest and Free Course Contest
-* Check out the demo [here](https://7asecurity.com/contest-owasp-summer-of-security)
+* Check out the details [here](https://7asecurity.com/contest-owasp-summer-of-security)
 * This promotion is valid for all submissions sent until August 26th 2020.  Winners will be privately contacted after each training event on June 24th, July 29th, and August 26th.	
 
 ### [![Acunetix](https://owasp.org/assets/images/corp-member-logo/acunetix.png){:width='150px'}](https://www.acunetix.com/?utm_source=tradeshow&utm_medium=event&utm_campaign=owaspvirtualappsec20)
@@ -29,3 +29,9 @@ This is your chance to grab some swag.  The sponsors below are providing the sta
 ### [![Netsparker](https://owasp.org/assets/images/corp-member-logo/netsparker.png){:width='150px'}](https://www.netsparker.com/?utm_source=tradeshow&utm_medium=event&utm_campaign=owaspvirtualappsec20)
 * $100 Amazon Gift Card
 * Check out the demo [here](https://www.netsparker.com/get-demo/?ab=v3&utm_medium=events&utm_source=tradeshow&utm_campaign=2020-q2-n-events-tradeshow-owaspvirtualappsec3)
+
+### [![Virsec](https://owasp.org/assets/images/corp-member-logo/virsec.png){:width='150px'}](https://virsec.com/virsec-in-action/)
+* $100 Amazon Gift Card
+* Random drawing for one individual per event that checks out our demos.
+* Check out the demo [here](https://virsec.com/virsec-in-action/)
+

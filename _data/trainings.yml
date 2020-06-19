@@ -1,4 +1,4 @@
-﻿- Type: Training
+- Type: Training
   Trainers:
     - Name: Muhammad Aamir
       Email: muhammad.aamir@ieee.org
@@ -312,3 +312,25 @@
     developers the skills required to build their own threat models for your products, and 
     train with actual hands-on experience so that you are confident to continue designing 
     secure products based on threat modeling."
+- Type: Training
+  Trainers:
+    - Name: Steven Wierckx
+      Email: steven.wierckx@toreon.com
+      Image: /assets/images/trainers/trainer-steven-wierckx.jpg
+      Twitter: ihackforfun
+      Biography: "SDLC Security Consultant, Threat model (trainer), OWASP Threat Model Project Leader<br>
+        Steven Wierckx is a software and security tester with 15 years of experience in programming, 
+        security testing, source code review, test automation, functional and technical analysis, development, 
+        and database design, Steven shares his passion for web application security through writing and training 
+        on testing software for security problems, secure coding, security awareness, security testing, and 
+        threat modeling. He is the project leader for the OWASP Threat Modeling Project and organizes the BruCON 
+        student CTF. Steven spoke at Hack in the Box Amsterdam, hosted a workshop at BruCON and delivered threat 
+        modeling trainings at OWASP AppSec USA and O’Reilly Security New York."
+      TrainerId: steven_wierckx
+  Title: "Hands-on threat modeling and tooling for DevSecOps"
+  URL: /register/?id=sku_HRqG1CJvcsHjU7
+  SectionId: sku_HRqG1CJvcsHjU7
+  Description: "Steven teaches you how to use threat modeling and tools to integrate security in DevOps. He teaches 
+    a risk-based unified threat modeling practice that is in close alignment with your business objectives. With 
+    hands-on practical threat modeling challenges, you will learn the different stages of threat modeling on an 
+    incremental CI/CD scenario."
