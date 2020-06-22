@@ -27,7 +27,7 @@ This is your chance to grab some swag.  The sponsors below are providing the sta
 * Check out the demo [here](https://info.checkmarx.com/event-owasp-virtual-appsec-demo?utm_medium=event&utm_source=tradeshow&utm_campaign=2020-q2-a-events-tradeshow-owaspvirtualappsec2&utm_search_query=Demo)
 
 ### [![Synack](https://owasp.org/assets/images/corp-member-logo/Synack.png){:width='150px'}](http://www.synack.com/?utm_source=tradeshow&utm_medium=event&utm_campaign=owaspvirtualappsec20)
-* Available to OWASP virtual training attendees, a chance to win the following Synack Package; Apple Airpods, Ember Mug, Amazon Gift Card, Hunter Cat, and some sweet Synack Apparel
+* Available to OWASP virtual training attendees, a chance to win the following Synack Package; Apple Airpods, Ember Mug, Amazon Gift Card, Hunter Cat, and some sweet Synack apparel.
 * To enroll must complete [form](https://syn.ac/2YgcfxJ)
 
 ### [![Netsparker](https://owasp.org/assets/images/corp-member-logo/netsparker.png){:width='150px'}](https://www.netsparker.com/?utm_source=tradeshow&utm_medium=event&utm_campaign=owaspvirtualappsec20)
