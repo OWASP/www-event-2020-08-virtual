@@ -48,7 +48,7 @@ layout: event
 ### Training Sessions hosted 12pm ET (1800 CET) Include
 
 
-* #### Register for the class you want by clicking below
+* #### Join us for the class you want by clicking below
 * Please note: All courses take place simultaneously over 2 days, only register for 1.
 * *(more information can be found on the [Training](/trainings/) page)*
 {% if site.data.trainings.count > 0 %}
