@@ -25,7 +25,7 @@ This is your chance to grab some swag.  The sponsors below are providing the sta
 
 ### [![Checkmarx](https://owasp.org/assets/images/corp-member-logo/checkmarx.png){:width='150px'}](https://www.checkmarx.com/?utm_source=tradeshow&utm_medium=event&utm_campaign=owaspvirtualappsec20)
 * $100 Amazon Gift Card
-* Check out the demo [here](https://info.checkmarx.com/event-owasp-virtual-appsec-demo?utm_medium=event&utm_source=tradeshow&utm_campaign=2020-q2-a-events-tradeshow-owaspvirtualappsec2&utm_search_query=Demo)
+* Check out the demo [here](https://info.checkmarx.com/event-owasp-virtual-appsec-demo?utm_medium=event&utm_source=tradeshow&utm_campaign=aug-2020-q3-a-events-tradeshow-owaspvirtualappsec2&utm_search_query=Demo)
 
 ### [![CodeDx](https://owasp.org/assets/images/corp-member-logo/code-dx.png){:width='150px'}](https://codedx.com/?utm_source=tradeshow&utm_medium=event&utm_campaign=owaspvirtualappsec20)
 * $100 Amazon Gift Card
