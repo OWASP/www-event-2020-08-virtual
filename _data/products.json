@@ -112,6 +112,18 @@
                 "discountable": "True",
                 "display_order": "11"
             }
+        },
+        {
+            "id": "sku_HlhH1Z6TC8kvd7",
+            "name": "FREE TRAINING: Modern Web Application Hacking for Beginners",
+            "amount": 0,
+            "metadata": {
+                "type": "regular",
+                "inventory": "250",
+                "description": "<p>In this beginner-oriented training you can try out attacks against the modern web applications OWASP Juice Shop! There are almost 100 hacking challenges that are waiting to be solved, but in this training we will focus on up to four categories:<br />\n-Cross-Site Scripting<br />\n-Injection<br />\n-Authentication Flaws<br />\n-Authorization Flaws</p>",
+                "discountable": "True",
+                "display_order": "21"
+            }
         }
     ]
 }
