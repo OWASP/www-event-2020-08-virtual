@@ -152,38 +152,6 @@
     fuzzing."
 - Type: Training
   Trainers:
-    - Name: Tanya Janca
-      Email: tanya.janca@owasp.org
-      Image: /assets/images/trainers/trainer-tanya-janca.jpg
-      Twitter: shehackspurple
-      Biography: "Tanya Janca, also known as ‘SheHacksPurple’, is the founder, security 
-        trainer and coach of SheHacksPurple.dev, specializing in software and cloud 
-        security. Her obsession with securing software runs deep, from starting her 
-        company, to running her own OWASP chapter for 4 years in Ottawa, co-founding a 
-        new OWASP chapter in Victoria, and co-founding the OWASP DevSlop open-source and 
-        education project. With her countless blog articles, workshops and talks, her focus 
-        is clear. Tanya is also an advocate for diversity and inclusion, co-founding the 
-        international women’s organization WoSEC, starting the online #CyberMentoringMonday 
-        initiative, and personally mentoring, advocating for and enabling countless other 
-        women in her field. As a professional computer geek of 20+ years, she is a person 
-        who is truly fascinated by the ‘science’ of computer science."
-      TrainerId: tanya_janca
-  Title: DevSecOps with GitHub Actions and Azure
-  URL: /register/?id=sku_HOuHivnpOAdYcB
-  SectionId: sku_HOuHivnpOAdYcB
-  Description: "DevSecOps, as defined for this course, is performing application security 
-    activities, in a DevOps environment. This course will kick off with brief theory about 
-    AppSec and DevOps, and then spend the rest of the day locking down your GitHub repo, 
-    creating a CI/CD using GitHub Actions, adding several security tools to your CI/CD, 
-    finding security bugs, deploying your app to Azure, and then locking down your 
-    infrastructure in Azure.<br>
-    Tooling: GitHub Actions, SCA, Secret Scanning, DAST, GitHub Secret Store, Azure 
-    Security Center<br>
-    This course is hands-on. You will need a GitHub account and Azure Trial ready *before* 
-    the course starts. Do NOT use your work Azure account, we will be adding an insecure 
-    app to your trial instance."
-- Type: Training
-  Trainers:
     - Name: Tushar Kulkarni
       Email: kulkarnivtushar@gmail.com
       Image: /assets/images/trainers/trainer-tushar-kulkarni.jpg
@@ -331,4 +299,22 @@
       TrainerId: bjoern_kimminich
   Title: "Modern Web Application Hacking for Beginners"
   URL: mailto:outreach@owasp.org
-  Description: '<p style="border: 2px solid #E64A19; border-radius: 5px; font-size: 0.7em; padding: 2px;">This is a <strong>free diversity training</strong> made possible by the <a href="https://owasp.org/www-committee-wia" target="_blank">OWASP Women in AppSec</a> and <a href="https://owasp.org/www-committee-outreach" target="_blank">OWASP Outreach</a> committee! You can request a free non-transferable seat for this training <em>only</em> via email to <a href="mailto:outreach@owasp.org">outreach@owasp.org</a>. Telling us briefly why you would like to join will increase your chances of getting one of the limited seats in this training! 👩‍💻🏳️‍🌈️🦄 This training is scheduled as a consecutive 3h session on <strong>August 26, 8AM (PDT) / 11AM (EDT) / 5PM (CEST) / 11PM (CST)</strong></p><p>In this beginner-oriented training you can try out attacks against the modern web applications OWASP Juice Shop! There are almost 100 hacking challenges that are waiting to be solved, but in this training we will focus on up to four categories:</p><ul><li>⭐Cross-Site Scripting</li><li>⭐Injection</li><li>⭐Authentication Flaws</li><li>⭐Authorization Flaws</li></ul><p>The training will consist of multiple short teasers to the above vulnerabilities and lots of time for hacking! Your pace is entirely up to you! Some challenges can optionally be tackled in a "swarm-hacking" style together via shared screen on Zoom. Over the entire duration of the training you can get first-hand hints by your trainer in case you get stuck on any challenge.</p><p>All participants must <a href="https://pwning.owasp-juice.shop/part1/running.html" target="_blank">install OWASP Juice Shop before the training</a> in a variant of their own choice - please test that the application starts without error! In case of problems with the installation, please check <a href="https://pwning.owasp-juice.shop/appendix/troubleshooting.html" target="_blank">the troubleshooting guide</a> or ask for assistance in <a href="https://gitter.im/bkimminich/juice-shop" target="_blank">the community chat</a>.</p>'
+  Description: '<p style="border: 2px solid #E64A19; border-radius: 5px; font-size: 0.7em; padding: 2px;">
+    This is a <strong>free diversity training</strong> made possible by the <a href="https://owasp.org/www-committee-wia" target="_blank">OWASP Women in AppSec</a> 
+    and <a href="https://owasp.org/www-committee-outreach" target="_blank">OWASP Outreach</a> committee! You can request a free non-transferable seat for this 
+    training <em>only</em> via email to <a href="mailto:outreach@owasp.org">outreach@owasp.org</a>. Telling us briefly why you would like to join will increase your 
+    chances of getting one of the limited seats in this training! 👩‍💻🏳️‍🌈️🦄 This training is scheduled as a consecutive 3h session on 
+    <strong>August 26, 8AM (PDT) / 11AM (EDT) / 5PM (CEST) / 11PM (CST)</strong></p><p>In this beginner-oriented training you can try out attacks against 
+    the modern web applications OWASP Juice Shop! There are almost 100 hacking challenges that are waiting to be solved, but in this training we will focus on 
+    up to four categories:</p><ul>
+    <li>Cross-Site Scripting</li>
+    <li>Injection</li>
+    <li>Authentication Flaws</li>
+    <li>Authorization Flaws</li></ul>
+    <p>The training will consist of multiple short teasers to the above vulnerabilities and lots of time for hacking! Your pace is entirely up to you! Some 
+    challenges can optionally be tackled in a "swarm-hacking" style together via shared screen on Zoom. Over the entire duration of the training you can get 
+    first-hand hints by your trainer in case you get stuck on any challenge.</p><p>All participants must 
+    <a href="https://pwning.owasp-juice.shop/part1/running.html" target="_blank">install OWASP Juice Shop before the training</a> in a variant of their own 
+    choice - please test that the application starts without error! In case of problems with the installation, please check 
+    <a href="https://pwning.owasp-juice.shop/appendix/troubleshooting.html" target="_blank">the troubleshooting guide</a> or ask for assistance in 
+    <a href="https://gitter.im/bkimminich/juice-shop" target="_blank">the community chat</a>.</p>'
