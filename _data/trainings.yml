@@ -4,15 +4,15 @@
       Email: muhammad.aamir@ieee.org
       Image: /assets/images/trainers/trainer-muhammad-aamir.jpg
       Twitter: Muhammad__Aamir
-      Biography: The trainer of this course is a cybersecurity certified professional i.e. Certified Information 
-        Systems Security Professional (CISSP) and Certified Ethical Hacker (CEH) with more than 12 years of work 
-        experience. He works in the field of cybersecurity for various domains such as cybersecurity research 
-        and threat intelligence, training for cybersecurity user awareness, cybersecurity policies/frameworks, 
-        and penetration testing. He has a passion of teaching and likes to share the knowledge obtained during 
-        job tasks. He has also conducted on premise classes as well as online sessions to deliver the lectures 
+      Biography: The trainer of this course is a cybersecurity certified professional i.e. Certified Information
+        Systems Security Professional (CISSP) and Certified Ethical Hacker (CEH) with more than 12 years of work
+        experience. He works in the field of cybersecurity for various domains such as cybersecurity research
+        and threat intelligence, training for cybersecurity user awareness, cybersecurity policies/frameworks,
+        and penetration testing. He has a passion of teaching and likes to share the knowledge obtained during
+        job tasks. He has also conducted on premise classes as well as online sessions to deliver the lectures
         on Ethical Hacking to university students as visiting faculty.
       TrainerId: muhammad_aamir
-  Title: Ethical Hacking for Beginners 
+  Title: Ethical Hacking for Beginners
   URL: /register/?id=sku_HOuDe84Hc1hBGm
   SectionId: sku_HOuDe84Hc1hBGm
   Description: "This course is based on Ethical Hacking also known as Penetration Testing. The hacking, when 
@@ -33,16 +33,16 @@
     Note: The above resources will be installed and organized in a virtual environment i.e. Oracle VM 
     Virtualbox."
 - Type: Training
-  Trainers: 
+  Trainers:
     - Name: Ali Abdollahi
       Email: ali.abdollahi19@gmail.com
       Image: /assets/images/trainers/trainer-ali-abhollahi.png
       Twitter: aliabdollahi2
-      Biography: Ali Abdollahi a Cybersecurity consultant with over 8 years of experience working 
-        in a variety of security fields. Currently the cybersecurity division manager, Board 
-        of review, author and instructor at Hakin9, Pentest &eForensics magazine. Ali is a 
-        self-confessed bug hunter, publisher of many vulnerabilities and CVEs, author books 
-        and some articles in the field of cybersecurity. Ali is a regular speaker and trainer 
+      Biography: Ali Abdollahi a Cybersecurity consultant with over 8 years of experience working
+        in a variety of security fields. Currently the cybersecurity division manager, Board
+        of review, author and instructor at Hakin9, Pentest &eForensics magazine. Ali is a
+        self-confessed bug hunter, publisher of many vulnerabilities and CVEs, author books
+        and some articles in the field of cybersecurity. Ali is a regular speaker and trainer
         at industry conferences and events.
       TrainerId: ali_abdollahi
   Title: Practical OWASP ZAP Scripting
@@ -103,7 +103,7 @@
         Social Engineering<br>
         <strong>Trainer for:</strong>CEH, CHFI, ECSA, Custom security training ( Secure 
         Development, Ethical Hacking, Social Engineering), CNA, CCNA Security"
-      TrainerId: gabriel_avramescu 
+      TrainerId: gabriel_avramescu
   Title: Ethical Hacking - security seen from an offensive perspective
   URL: /register/?id=sku_HOuGUsrIIvMVO2
   SectionId: sku_HOuGUsrIIvMVO2
@@ -162,11 +162,11 @@
   Title: Web the API Security
   URL: /register/?id=sku_HOuI1vlSNzwCRH
   SectionId: sku_HOuI1vlSNzwCRH
-  Description: We see Developers moving from traditional 2-tier applications to an 
-    application which involves an API for fetching data to the application. Since Web 
-    APIs are platform independent they can be used by Mobile apps ,Web apps and with 
-    lots of other interfaces.This training session would include Penetration Testing of 
-    Web APIs , The best practices to be followed by Developers while creating such APIs 
+  Description: We see Developers moving from traditional 2-tier applications to an
+    application which involves an API for fetching data to the application. Since Web
+    APIs are platform independent they can be used by Mobile apps ,Web apps and with
+    lots of other interfaces.This training session would include Penetration Testing of
+    Web APIs , The best practices to be followed by Developers while creating such APIs
     and some labs/demo as an example.
 - Type: Training
   Trainers:
@@ -185,8 +185,8 @@
   Title: Securing the Container Platform
   URL: /register/?id=sku_HOuJFM5gKuTMGg
   SectionId: sku_HOuJFM5gKuTMGg
-  Description: Containers are in popular use as the distribution vehicle for cloud-native 
-    application services. In this workshop, you'll learn about the fundamental aspects of 
+  Description: Containers are in popular use as the distribution vehicle for cloud-native
+    application services. In this workshop, you'll learn about the fundamental aspects of
     security that associate with the platform components.
 - Type: Training
   Trainers:
@@ -194,27 +194,27 @@
       Email: mail@christian-schneider.net
       Image: /assets/images/trainers/trainer-christian-schneider.jpg
       Twitter: cschneider4711
-      Biography: Christian has pursued a successful career as a freelance Java software 
-        developer since 1997 and expanded it in 2005 to include the focus on IT security. 
-        His major areas of work are penetration testing, security architecture consulting, 
-        and threat modeling. As a trainer, Christian regularly conducts in-house training 
-        courses on topics like web application security and coaches agile projects to 
-        include security as part of their process by applying DevSecOps concepts. Christian 
-        regularly enjoys speaking and giving trainings on major national and international 
-        conferences. 
+      Biography: Christian has pursued a successful career as a freelance Java software
+        developer since 1997 and expanded it in 2005 to include the focus on IT security.
+        His major areas of work are penetration testing, security architecture consulting,
+        and threat modeling. As a trainer, Christian regularly conducts in-house training
+        courses on topics like web application security and coaches agile projects to
+        include security as part of their process by applying DevSecOps concepts. Christian
+        regularly enjoys speaking and giving trainings on major national and international
+        conferences.
       TrainerId: christian_schneider
   Title: "DevSecOps Workshop: Putting Security Checks into your Build Pipeline"
   URL: /register/?id=sku_HOuJZnm9SjNipC
   SectionId: sku_HOuJZnm9SjNipC
-  Description: This course gives insight into automation capabilities of security scans, 
-    which perfectly fit into many build pipelines. Taking into account frontends (Web) 
-    as well as backends (APIs), you will learn what steps of a security analysis can be 
-    best automated – and how. By focussing on OpenSource solutions (OWASP ZAP), you will 
-    get a tool arsenal with different automation options ready to test your application’s 
-    security on every build. During this workshop we will enhance a typical Jenkins-based 
-    CI/CD pipeline (every attendee will get an individual Jenkins server in the cloud 
-    ready to use with multiple levels of tool integrations) with a specially prepared 
-    vulnerable training application step by step into a full-fledged awesome DevSecOps 
+  Description: This course gives insight into automation capabilities of security scans,
+    which perfectly fit into many build pipelines. Taking into account frontends (Web)
+    as well as backends (APIs), you will learn what steps of a security analysis can be
+    best automated – and how. By focussing on OpenSource solutions (OWASP ZAP), you will
+    get a tool arsenal with different automation options ready to test your application’s
+    security on every build. During this workshop we will enhance a typical Jenkins-based
+    CI/CD pipeline (every attendee will get an individual Jenkins server in the cloud
+    ready to use with multiple levels of tool integrations) with a specially prepared
+    vulnerable training application step by step into a full-fledged awesome DevSecOps
     AppSecPipeline.
 - Type: Training
   Trainers:
@@ -295,26 +295,28 @@
       Email: bjoern.kimminich@owasp.org
       Image: /assets/images/trainers/trainer-bjoern-kimminich.jpg
       Twitter: bkimminich
-      Biography: "Bjoern Kimminich is responsible for Architecture Governance + Application Security at Kuehne + Nagel. On the side, he gives IT security lectures at the non-profit private university Nordakademie. Björn also is the project leader of the OWASP Juice Shop and a board member for the German OWASP chapter."
+      Biography: "Bjoern Kimminich is responsible for Architecture Governance + Application Security at Kuehne + Nagel.
+        On the side, he gives IT security lectures at the non-profit private university Nordakademie. Björn also is the
+        project leader of the OWASP Juice Shop and a board member for the German OWASP chapter."
       TrainerId: bjoern_kimminich
+  Status: Booked Out
   Title: "Modern Web Application Hacking for Beginners"
-  URL: mailto:outreach@owasp.org
-  Description: '<p style="border: 2px solid #E64A19; border-radius: 5px; font-size: 0.7em; padding: 2px;">
-    This is a <strong>free diversity training</strong> made possible by the <a href="https://owasp.org/www-committee-wia" target="_blank">OWASP Women in AppSec</a> 
-    and <a href="https://owasp.org/www-committee-outreach" target="_blank">OWASP Outreach</a> committee! You can request a free non-transferable seat for this 
-    training <em>only</em> via email to <a href="mailto:outreach@owasp.org">outreach@owasp.org</a>. Telling us briefly why you would like to join will increase your 
-    chances of getting one of the limited seats in this training! 👩‍💻🏳️‍🌈️🦄 This training is scheduled as a consecutive 3h session on 
-    <strong>August 26, 8AM (PDT) / 11AM (EDT) / 5PM (CEST) / 11PM (CST)</strong></p><p>In this beginner-oriented training you can try out attacks against 
-    the modern web applications OWASP Juice Shop! There are almost 100 hacking challenges that are waiting to be solved, but in this training we will focus on 
-    up to four categories:</p><ul>
-    <li>Cross-Site Scripting</li>
+  Description: '<p style="border: 2px solid #E64A19; border-radius: 5px; font-size: 0.7em; padding: 2px;">This is a
+    <strong>free diversity training</strong> made possible by the <a href="https://owasp.org/www-committee-wia"
+    target="_blank">OWASP Women in AppSec</a> and <a href="https://owasp.org/www-committee-outreach" target="_blank">
+    OWASP Outreach</a> committee! 👩‍💻🏳️‍🌈️🦄 This training is scheduled
+    as a consecutive 3h session on <strong>August 26, 8AM (PDT) / 11AM (EDT) / 5PM (CEST) / 11PM (CST)</strong> ⛔<strong style="color: #E64A19;">Booked Out</strong>⛔</p><p>
+    In this beginner-oriented training you can try out attacks against the modern web applications OWASP Juice Shop!
+    There are almost 100 hacking challenges that are waiting to be solved, but in this training we will focus on up to
+    four categories:</p><ul><li>Cross-Site Scripting</li>
     <li>Injection</li>
-    <li>Authentication Flaws</li>
-    <li>Authorization Flaws</li></ul>
-    <p>The training will consist of multiple short teasers to the above vulnerabilities and lots of time for hacking! Your pace is entirely up to you! Some 
-    challenges can optionally be tackled in a "swarm-hacking" style together via shared screen on Zoom. Over the entire duration of the training you can get 
-    first-hand hints by your trainer in case you get stuck on any challenge.</p><p>All participants must 
-    <a href="https://pwning.owasp-juice.shop/part1/running.html" target="_blank">install OWASP Juice Shop before the training</a> in a variant of their own 
-    choice - please test that the application starts without error! In case of problems with the installation, please check 
-    <a href="https://pwning.owasp-juice.shop/appendix/troubleshooting.html" target="_blank">the troubleshooting guide</a> or ask for assistance in 
-    <a href="https://gitter.im/bkimminich/juice-shop" target="_blank">the community chat</a>.</p>'
+    <li>Authentication Flaws</li><li>
+    Authorization Flaws</li></ul><p>The training will consist of multiple short teasers to the above vulnerabilities
+    and lots of time for hacking! Your pace is entirely up to you! Some challenges can optionally be tackled in a
+    "swarm-hacking" style together via shared screen on Zoom. Over the entire duration of the training you can get
+    first-hand hints by your trainer in case you get stuck on any challenge.</p><p>All participants must
+    <a href="https://pwning.owasp-juice.shop/part1/running.html" target="_blank">install OWASP Juice Shop before the
+    training</a> in a variant of their own choice - please test that the application starts without error! In case of
+    problems with the installation, please check <a href="https://pwning.owasp-juice.shop/appendix/troubleshooting.html"
+    target="_blank">the troubleshooting guide</a> or ask for assistance in <a href="https://gitter.im/bkimminich/juice-shop"
+    target="_blank">the community chat</a>.</p>'
