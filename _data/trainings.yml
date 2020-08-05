@@ -304,10 +304,10 @@
   Description: '<p style="border: 2px solid #E64A19; border-radius: 5px; font-size: 0.7em; padding: 2px;">This is a
     <strong>free diversity training</strong> made possible by the <a href="https://owasp.org/www-committee-wia"
     target="_blank">OWASP Women in AppSec</a> and <a href="https://owasp.org/www-committee-outreach" target="_blank">
-    OWASP Outreach</a> committee! 👩‍💻🏳️‍🌈️🦄<br>This training is scheduled
+    OWASP Outreach</a> committee! 👩‍💻🏳️‍🌈️🦄 This training is scheduled
     as a consecutive 4h <span style="text-decoration: line-through; color: lightgray;">3h</span> session on <strong>
     August 25, 8:00AM - 12:00PM (PDT / GMT-7)</strong> <span style="text-decoration: line-through; color: lightgray;">
-    August 26, 8:00AM - 11:00PM (PDT / GMT-7)</span><br><strong style="color: #E64A19; font-size: larger;">⛔Booked Out⛔
+    August 26, 8:00AM - 11:00PM (PDT / GMT-7)</span> <strong style="color: #E64A19; font-size: larger;">⛔Booked Out⛔
     </strong></p><p>In this beginner-oriented training you can try out attacks against the modern web applications OWASP
     Juice Shop! There are almost 100 hacking challenges that are waiting to be solved, but in this training we will
     focus on up to four categories:</p><ul><li>Cross-Site Scripting</li>
