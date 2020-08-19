@@ -37,17 +37,6 @@
             }
         },
         {
-            "id": "sku_HOuGUsrIIvMVO2",
-            "name": "Training: Ethical Hacking - security seen from an offensive perspective",
-            "amount": 49500,
-            "metadata": {
-                "type": "regular",
-                "description": "<p>Modules:<br />\n• Penetration testing overview <br />\n• Various types of footprinting tools and countermeasures <br />\n• Network scanning techniques and scanning countermeasures <br />\n• Enumeration techniques and enumeration countermeasures <br />\n• System hacking methodology <br />\n• Packet sniffing techniques, session hijacking<br />\nLevel: beginner-intermediate<br />\n<strong><em>Presented by Gabriel Avramescu</em></strong></p>",
-                "discountable": "True",
-                "display_order": "4"
-            }
-        },
-        {
             "id": "sku_HOuGOMSbuaiIro",
             "name": "Training: Fuzzing: An effective alternative to code review and penetration testing",
             "amount": 49500,
