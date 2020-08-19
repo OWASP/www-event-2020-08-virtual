@@ -89,36 +89,6 @@
     recordings and interesting apps to practice, including all future updates for free!"
 - Type: Training
   Trainers:
-    - Name: Gabriel Avramescu
-      Email: gabriel.avramescu@ituniversity.ro
-      Image: /assets/images/trainers/trainer-gabriel-avramescu.jpg
-      Twitter: ituniversityro
-      Biography: "I work as a penetration tester with over 8 years of experience and as 
-        a trainer with over 14 years (5 in the security field).<br>
-        <strong>Certifications:</strong> OSCP, CEH, ECSA, CHFI, ISO 27001, CREST CRT, CREST CPSA, etc.<br>
-        <strong>Penetration testing customers:</strong> over 15 companies in different areas: retail 
-        companies (Metro/Makro, Real, Carrefour), banking and insurance and IFN 
-        (Raiffeisen, BRD, Orange Money, NN, Ergo, etc.), ride-sharing companies<br>
-        <strong>Penetration testing areas:</strong> Web and mobile, code review, infrastructure, Wi-Fi and 
-        Social Engineering<br>
-        <strong>Trainer for:</strong>CEH, CHFI, ECSA, Custom security training ( Secure 
-        Development, Ethical Hacking, Social Engineering), CNA, CCNA Security"
-      TrainerId: gabriel_avramescu
-  Title: Ethical Hacking - security seen from an offensive perspective
-  URL: /register/?id=sku_HOuGUsrIIvMVO2
-  SectionId: sku_HOuGUsrIIvMVO2
-  Description: "Course learning objectives:<br>
-    • Develop ”Out-of-box” thinking<br> 
-    • See security from an offensive perspective<br><br> 
-    Course learning modules:<br> 
-    • Penetration testing overview<br> 
-    • Various types of footprinting, footprinting tools, and countermeasures<br> 
-    • Network scanning techniques and scanning countermeasures<br>
-    • Enumeration techniques and enumeration countermeasures<br>
-    • System hacking methodology<br>
-    • Packet sniffing techniques and how to defend against sniffing, session hijacking, HSTS bypass"
-- Type: Training
-  Trainers:
     - Name: Alper Basaran
       Email: basaranalper@gmail.com
       Image: /assets/images/trainers/trainer-alper-basaran.jpg
@@ -168,26 +138,6 @@
     lots of other interfaces.This training session would include Penetration Testing of
     Web APIs , The best practices to be followed by Developers while creating such APIs
     and some labs/demo as an example.
-- Type: Training
-  Trainers:
-    - Name: Mehul Patel
-      Email: mehulpofficial@gmail.com
-      Image: /assets/images/trainers/trainer-mehul-patel.jpg
-      Twitter: rowdymehul
-      Biography: "Mehul is an engineer who loves digging technology, and public speaker currently living in India. His interests range 
-                  from technology to innovation. He is also interested in teaching, writing scripts, and safe programming.<br>
-                  Mehul holds a Masters in Computers Science and has been working and contributing towards the open-source community in all ways he can.<br>
-                  Currently, Mehul is a Founder of the Internauts Foundation, writing frequently at TechnoPanti, Ambassador at Auth0, Mentor at Mozilla Reps,
-                  Campus Advisory Committee at Mozilla, and Organizer of Google Developer Group - Nashik. Moreover, He is the initiator of Rust Hacks - 
-                  the super safe system programming language of course.<br>
-                  List of key talks and publications: https://bit.ly/2BGZBz1"
-      TrainerId: mehul_patel
-  Title: Securing the Container Platform
-  URL: /register/?id=sku_HOuJFM5gKuTMGg
-  SectionId: sku_HOuJFM5gKuTMGg
-  Description: Containers are in popular use as the distribution vehicle for cloud-native
-    application services. In this workshop, you'll learn about the fundamental aspects of
-    security that associate with the platform components.
 - Type: Training
   Trainers:
     - Name: Christian Schneider
