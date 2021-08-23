@@ -9,7 +9,7 @@ location: Your Desk
 background: douglas-bagg-and-markus-spiske.png
 color: 797979
 analytics: UA-4531126-14
-registration_open: true
+registration_open: false
 pitch: "## Improve your AppSec Skills for a Great Price
         
         The OWASP Foundation is hosting a virtual AppSec Days on August 25-25. 
